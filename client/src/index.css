@@ -7,3 +7,14 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+a {
+  color: #60bf70 !important;
+  text-decoration: none;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+a:hover {
+  color: #000 !important;
+}
